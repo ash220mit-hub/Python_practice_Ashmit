@@ -10,7 +10,7 @@ def start():
                 print (f'\n\tThis is even number: {num_}')
             else:
                 print(f'\n\tThis is odd number: {num_}')
-            bahar=('\n\tkya aap bahar nikalna chahte hai(yes/no):').lower
+            bahar=input('\n\tkya aap bahar nikalna chahte hai(yes/no):').lower()
             if bahar=='yes':
                 break
             else:
