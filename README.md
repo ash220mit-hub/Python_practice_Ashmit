@@ -1,2 +1,3 @@
-# Python_practice_Ashmit
-All my python projects ,beginner projects
+This is my python program for beginners.
+<br>
+Author—Ashmit kumar
